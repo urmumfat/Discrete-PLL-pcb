@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BPA")(type "KiCad")(uri "${KIPRJMOD}/BPA.kicad_sym")(options "")(descr ""))
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/files/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "LibraryXd")(type "KiCad")(uri "${KIPRJMOD}/files/LibraryXd.kicad_sym")(options "")(descr ""))
+)

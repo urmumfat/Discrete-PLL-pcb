@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "library2xd")(type "KiCad")(uri "${KIPRJMOD}/files/library2xd.pretty")(options "")(descr ""))
+)
