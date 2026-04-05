@@ -1,4 +1,4 @@
-# Discrete-PLL: From Schematic to 3D Printed Case
+# Discrete-PLL-pcb
 
 Electronics project featuring a **Discrete Phase-Locked Loop (PLL)**.
 
