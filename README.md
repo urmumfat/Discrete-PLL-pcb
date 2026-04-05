@@ -4,29 +4,29 @@ Electronics project featuring a **Discrete Phase-Locked Loop (PLL)**.
 
 circuit diagram:
 <div style="display: flex; gap: 10px;">
-  <img src="Discrete-PLL-schematic.png" width="90%">
+  <img src="images/Discrete-PLL-schematic.png" width="90%">
 </div>
 
 pcb photos and renders:
 <div style="display: flex; gap: 10px;">
-  <img src="Discrete-PLL-3Dview_1.png" width="45%">
-  <img src="Discrete-PLL-3Dview_2.png" width="45%">
+  <img src="images/Discrete-PLL-3Dview_1.png" width="45%">
+  <img src="images/Discrete-PLL-3Dview_2.png" width="45%">
 </div>
 
 <div style="display: flex; gap: 10px;">
-  <img src="IMG_2.jpeg" width="45%">
-  <img src="IMG_1.jpeg" width="45%">
+  <img src="images/IMG_2.jpeg" width="45%">
+  <img src="images/IMG_1.jpeg" width="45%">
 </div>
 
 pcb layout:
 <div style="display: flex; gap: 10px;">
-  <img src="Discrete-PLL-pcb_1.png" width="45%">
-  <img src="Discrete-PLL-pcb_2.png" width="45%">
+  <img src="images/Discrete-PLL-pcb_1.png" width="45%">
+  <img src="images/Discrete-PLL-pcb_2.png" width="45%">
 </div>
 
 <div style="display: flex; gap: 10px;">
-  <img src="IMG_4.jpeg" width="45%">
-  <img src="IMG_3.jpeg" width="45%">
+  <img src="images/IMG_4.jpeg" width="45%">
+  <img src="images/IMG_3.jpeg" width="45%">
 </div>
 
 ## Project Scope
